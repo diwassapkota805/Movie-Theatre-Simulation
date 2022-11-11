@@ -2,10 +2,10 @@
 Programming language used: C
 
 Actions you can perform:
- -Sell tickets to next customer
- -See who's in line
- -See the seat map for a given theater
- -Print today's receipts
+Sell tickets to next customer
+See who's in line
+See the seat map for a given theater
+Print today's receipts
 
 
 - Movie Theater Seat Map Files – contains the eight movie theater seat map files.
