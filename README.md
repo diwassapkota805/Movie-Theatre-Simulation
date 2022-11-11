@@ -8,13 +8,13 @@ Programming language used: C
   - Print today's receipts
 
 
-- Movie Theater Seat Map Files – contains the eight movie theater seat map files.
+Movie Theater Seat Map Files – contains the eight movie theater seat map files.
 
-- Command Line Files.zip – contains the file of theaters and their zip codes for the BST and
+Command Line Files.zip – contains the file of theaters and their zip codes for the BST and
 the file of customers for thequeue. These are the data input files required by the program 
 on the command line.
 
-- Libraries – contains 10 files – 5 .c files and 5.h files for the libraries this assignment 
+Libraries – contains 10 files – 5 .c files and 5.h files for the libraries this assignment 
 uses. They are Movie Theater, linked list, queue, stack and Binary Search Tree (BST) libraries.
 
 
